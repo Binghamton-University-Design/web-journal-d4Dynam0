@@ -19,18 +19,29 @@ h1,h2,h3,h4,p {
 }
 
 #main { 
-background: red;
+background: black;
 margin: 2em;
 padding: 2em;
 }
 
 #sidebar{
-	background: orange
+	background: black
 
 }
 
+
+#logo img {
+	width: 100%;
+	height: auto;
+}
+
+.item img {
+	margin-bottom: 2em;
+}
+
 #content{
-	background: green
+	background: red
+
 
 }
 
